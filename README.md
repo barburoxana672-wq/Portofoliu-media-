@@ -10,6 +10,6 @@ Bun venit în portofoliul meu digital! Sunt elevă în clasa a XII-a la Liceul T
 ### Tema 01 – Afiș
 
 - **Document final:** [Deschide lucrarea PDF](tema-01-afis/lucrare.pdf)
-- **Imagine de prezentare:** [Vezi imaginea](tema-01-afis/prezentare.png)
+- **Imagine de prezentare:images
 
 Acest portofoliu conține lucrările realizate în cadrul activităților școlare.
