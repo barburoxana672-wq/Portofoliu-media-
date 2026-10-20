@@ -2,8 +2,7 @@
 Teme și proiecte, clasa a XII-a, Producție media,
 Liceul Tehnologic „Grigore C. Moisil” Buzău.
 
-Site: <https://ion-popescu.github.io/portofoliu-media/>
-
+Site: https://barburoxana672-wq.github.io/Portofoliu-media-/
 ## Lucrări
 
 | Nr. | Lucrarea | Folder |
